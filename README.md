@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealmagyar" alt="therealmagyar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gamesmagyar" target="blank"><img src="https://img.shields.io/twitter/follow/@gamesmagyar?logo=twitter&style=for-the-badge" alt="@gamesmagyar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gamesmagyar" target="blank"><img src="https://img.shields.io/twitter/follow/gamesmagyar?logo=twitter&style=for-the-badge" alt="gamesmagyar" /></a> </p>
 
 - 🔭 I’m currently working on **Cryptocelot**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@gamesmagyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@gamesmagyar" height="30" width="40" /></a>
+<a href="https://twitter.com/gamesmagyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamesmagyar" height="30" width="40" /></a>
 <a href="https://discord.gg/Xbtab2uduH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xbtab2uduH" height="30" width="40" /></a>
 </p>
 
