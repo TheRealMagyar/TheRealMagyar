@@ -118,17 +118,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealmagyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&cache_seconds=86400" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealmagyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_seconds=86400" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=therealmagyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=therealmagyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <!--
-  NOTE: github-readme-stats' public Vercel instance gets rate-limited under
-  traffic spikes and sometimes shows "Max retries exceeded" instead of the card.
-  Added &cache_seconds=86400 above to reduce how often it re-fetches from GitHub,
-  which helps a lot. If cards still go down for you, the permanent fix is to
-  self-host your own instance (fork anuraghazra/github-readme-stats, deploy to
-  your own Vercel account with your own GitHub token) and swap the domain in
-  the two image URLs above.
+  NOTE: anuraghazra/github-readme-stats (the old github-readme-stats.vercel.app
+  domain) is now archived/unmaintained, which is why it kept breaking. Switched
+  both cards to "GitHub Stats Extended" (github-stats-extended.vercel.app), the
+  actively maintained successor project — same parameters, more stable hosting.
+  If this ever goes down too, the permanent fix is the GitHub Actions approach:
+  it generates static SVGs and commits them to your repo, so nothing depends on
+  a live third-party server at all: https://github.com/marketplace/actions/github-readme-stats-action
 -->
 
 ###
