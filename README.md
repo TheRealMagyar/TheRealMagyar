@@ -3,19 +3,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealmagyar&label=Profile%20views&color=0e75b6&style=flat" alt="therealmagyar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealmagyar" alt="therealmagyar" /></a> </p>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealmagyar" alt="therealmagyar" /></a>
+</p>
+<!--
+  NOTE: github-profile-trophy's public Vercel demo occasionally goes down or gets
+  rate-limited. If the trophies stop rendering, swap the URL above for one of these
+  community-run mirrors (just replace the domain, keep the query params):
+  - https://github-profile-trophy-liard-delta.vercel.app/?username=therealmagyar
+  - https://github-profile-trophy-winning.vercel.app/?username=therealmagyar
+  - https://github-profile-trophy-kannan.vercel.app/?username=therealmagyar
+  For a permanent fix, self-host it (fork the repo + deploy your own Vercel instance).
+-->
 
-<p align="left"> <a href="https://twitter.com/gamesmagyar" target="blank"><img src="https://img.shields.io/twitter/follow/gamesmagyar?logo=twitter&style=for-the-badge" alt="gamesmagyar" /></a> </p>
+<p align="left">
+<a href="https://twitter.com/gamesmagyar" target="blank"><img src="https://img.shields.io/badge/follow-%40gamesmagyar-1DA1F2?logo=twitter&style=for-the-badge" alt="gamesmagyar" /></a>
+</p>
+<!--
+  NOTE: the old dynamic follower-count badge
+  (img.shields.io/twitter/follow/gamesmagyar) is permanently broken — X/Twitter
+  cut off third-party API access, so shields.io can no longer fetch the follower
+  count and just shows "not found". Replaced it with a static badge above, which
+  will always render correctly (it just doesn't show a live count anymore).
+-->
 
-- 🔭 I’m currently working on **Cryptocelot**
+- 🔭 I'm currently working on **Cryptocelot**
 
-- 🌱 I’m currently learning **solidity and blockchain development**
+- 🌱 I'm currently learning **solidity and blockchain development**
 
 - 💬 Ask me about **everything**
 
 - 📫 How to reach me **Discord: TheRealMagyar**
 
-- ⚡ Fun fact **I've been programming since i was 10. I belive in crypto and I'd like to be part of the crypto community.**
+- ⚡ Fun fact **I've been programming since I was 10. I believe in crypto and I'd like to be part of the crypto community.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -91,11 +111,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
 </div>
 
-
-
-
-
-
 ###
 
 <h2 align="left">Stats</h2>
@@ -103,8 +118,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealmagyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealmagyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealmagyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&cache_seconds=86400" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therealmagyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&cache_seconds=86400" height="150" alt="languages graph"  />
 </div>
+<!--
+  NOTE: github-readme-stats' public Vercel instance gets rate-limited under
+  traffic spikes and sometimes shows "Max retries exceeded" instead of the card.
+  Added &cache_seconds=86400 above to reduce how often it re-fetches from GitHub,
+  which helps a lot. If cards still go down for you, the permanent fix is to
+  self-host your own instance (fork anuraghazra/github-readme-stats, deploy to
+  your own Vercel account with your own GitHub token) and swap the domain in
+  the two image URLs above.
+-->
 
 ###
