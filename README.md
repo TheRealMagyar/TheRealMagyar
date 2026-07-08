@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm TheRealMagyar</h1>
 <h3 align="center">Forex goat, crypto investor, ceo, co-founder, programmer, entrepreneur</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheRealMagyar69&label=Profile%20views&color=0e75b6&style=flat" alt="TheRealMagyar69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealmagyar&label=Profile%20views&color=0e75b6&style=flat" alt="therealmagyar" /> </p>
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheRealMagyar69" alt="TheRealMagyar69" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealmagyar" alt="therealmagyar" /></a>
 </p>
 <!--
   NOTE: github-profile-trophy's public Vercel demo occasionally goes down or gets
   rate-limited. If the trophies stop rendering, swap the URL above for one of these
   community-run mirrors (just replace the domain, keep the query params):
-  - https://github-profile-trophy-liard-delta.vercel.app/?username=TheRealMagyar69
-  - https://github-profile-trophy-winning.vercel.app/?username=TheRealMagyar69
-  - https://github-profile-trophy-kannan.vercel.app/?username=TheRealMagyar69
+  - https://github-profile-trophy-liard-delta.vercel.app/?username=therealmagyar
+  - https://github-profile-trophy-winning.vercel.app/?username=therealmagyar
+  - https://github-profile-trophy-kannan.vercel.app/?username=therealmagyar
   For a permanent fix, self-host it (fork the repo + deploy your own Vercel instance).
 -->
 
 <p align="left">
-<a href="https://twitter.com/TheRealMagyar69" target="blank"><img src="https://img.shields.io/badge/follow-%40TheRealMagyar69-1DA1F2?logo=twitter&style=for-the-badge" alt="TheRealMagyar69" /></a>
+<a href="https://twitter.com/gamesmagyar" target="blank"><img src="https://img.shields.io/badge/follow-%40gamesmagyar-1DA1F2?logo=twitter&style=for-the-badge" alt="gamesmagyar" /></a>
 </p>
 <!--
   NOTE: the old dynamic follower-count badge
@@ -33,13 +33,13 @@
 
 - 💬 Ask me about **everything**
 
-- 📫 How to reach me **Discord: TheRealMagyar69**
+- 📫 How to reach me **Discord: TheRealMagyar**
 
 - ⚡ Fun fact **I've been programming since I was 10. I believe in crypto and I'd like to be part of the crypto community.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/TheRealMagyar69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TheRealMagyar69" height="30" width="40" /></a>
+<a href="https://twitter.com/gamesmagyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamesmagyar" height="30" width="40" /></a>
 <a href="https://discord.gg/Xbtab2uduH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xbtab2uduH" height="30" width="40" /></a>
 </p>
 
@@ -118,8 +118,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TheRealMagyar69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=TheRealMagyar69&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=therealmagyar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=therealmagyar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <!--
   NOTE: anuraghazra/github-readme-stats (the old github-readme-stats.vercel.app
