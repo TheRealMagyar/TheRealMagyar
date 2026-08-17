@@ -4,16 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealmagyar&label=Profile%20views&color=0e75b6&style=flat" alt="therealmagyar" /> </p>
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealmagyar" alt="therealmagyar" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-unserori.vercel.app/?username=therealmagyar" alt="therealmagyar" /></a>
 </p>
 <!--
-  NOTE: github-profile-trophy's public Vercel demo occasionally goes down or gets
-  rate-limited. If the trophies stop rendering, swap the URL above for one of these
-  community-run mirrors (just replace the domain, keep the query params):
-  - https://github-profile-trophy-liard-delta.vercel.app/?username=therealmagyar
-  - https://github-profile-trophy-winning.vercel.app/?username=therealmagyar
-  - https://github-profile-trophy-kannan.vercel.app/?username=therealmagyar
-  For a permanent fix, self-host it (fork the repo + deploy your own Vercel instance).
+  NOTE: Original github-profile-trophy.vercel.app is often rate-limited / down.
+  Switched to a working community mirror: https://github-profile-trophy-unserori.vercel.app
+  Other options if this fails later:
+  - https://trophygithubreadmelang.cybee.dpdns.org/?username=therealmagyar
+  - Self-host by forking the repo + deploying your own Vercel instance
 -->
 
 <p align="left">
