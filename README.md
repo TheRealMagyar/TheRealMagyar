@@ -18,7 +18,7 @@
 <a href="https://x.com/TheRealMagyar69" target="blank"><img src="https://img.shields.io/badge/follow-%40TheRealMagyar69-000000?logo=x&style=for-the-badge" alt="TheRealMagyar69" /></a>
 </p>
 
-- 🔭 I'm currently working on **Cryptocelot**
+- 🔭 I'm currently trying to build something great
 - 🌱 I'm currently learning **Rust** (and Move + advanced smart contract development)
 - 💬 Ask me about **Solidity, Move, Web3, dApps and blockchain architecture**
 - 📫 How to reach me **Discord: TheRealMagyar**
