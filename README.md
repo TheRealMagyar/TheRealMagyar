@@ -24,7 +24,7 @@
 - 🌱 I'm currently learning **Rust** (and Move + advanced smart contract development)
 - 💬 Ask me about **Solidity, Move, Web3, dApps and blockchain architecture**
 - 📫 How to reach me **Discord: TheRealMagyar**
-- ⚡ Fun fact **I've been programming since I was 10. Building on Sui, Ethereum, Solana & NEAR.**
+- ⚡ Fun fact **I've been programming since I was 10.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
