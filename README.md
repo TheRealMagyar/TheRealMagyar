@@ -21,8 +21,8 @@
 </p>
 
 - 🔭 I'm currently working on **Cryptocelot**
-- 🌱 I'm currently learning **Rust, Move & advanced smart contract development**
-- 💬 Ask me about **Solidity, Move, Rust, Web3, dApps and blockchain architecture**
+- 🌱 I'm currently learning **Rust** (and Move + advanced smart contract development)
+- 💬 Ask me about **Solidity, Move, Web3, dApps and blockchain architecture**
 - 📫 How to reach me **Discord: TheRealMagyar**
 - ⚡ Fun fact **I've been programming since I was 10. Building on Sui, Ethereum, Solana & NEAR.**
 
